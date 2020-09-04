@@ -107,8 +107,8 @@ body{
     top: 0;
     left: 0px;
     bottom:0px;
-    height: 375px;
-    width:250px;
+    height:25rem;
+    width:100%;
     background: linear-gradient(rgba(228, 83, 163, 0.5),rgba(146, 115, 221, 0.7),rgba(228,83,163,0.5));
 }
 .carousel-item{ position: relative !important; }
@@ -116,8 +116,8 @@ body{
     top: 0;
     left: 0px;
     bottom:0px;
+    height:299px;
     width:100%;
-    height:19rem;
      background: linear-gradient(rgba(228, 83, 163, 0.5),rgba(146, 115, 221, 0.7),rgba(228,83,163,0.5));
 }
 #carrom{
