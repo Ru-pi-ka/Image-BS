@@ -108,7 +108,16 @@ body{
     left: 0px;
     bottom:0px;
     height:100%;
-    width:100%;
+    width:245px;
+    background: linear-gradient(rgba(228, 83, 163, 0.5),rgba(146, 115, 221, 0.7),rgba(228,83,163,0.5));
+}
+.carousel-item{ position: relative !important; }
+.yellow-overlay{ position: absolute; position: absolute;
+    top: 0;
+    left: 0px;
+    bottom:0px;
+    height:100%;
+    width:255px;
     background: linear-gradient(rgba(228, 83, 163, 0.5),rgba(146, 115, 221, 0.7),rgba(228,83,163,0.5));
 }
 .carousel-item{ position: relative !important; }
@@ -116,7 +125,7 @@ body{
     top: 0;
     left: 0px;
     bottom:0px;
-    height:299px;
+    height:350px;
     width:100%;
      background: linear-gradient(rgba(228, 83, 163, 0.5),rgba(146, 115, 221, 0.7),rgba(228,83,163,0.5));
 }
